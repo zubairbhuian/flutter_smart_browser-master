@@ -1,0 +1,1 @@
+enum HomeMenu { list, settings }

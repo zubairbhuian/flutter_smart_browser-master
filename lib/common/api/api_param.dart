@@ -1,0 +1,11 @@
+const String paramContentType = "application/json",
+    paramModel = "model",
+    paramPrompt = "prompt",
+    paramTemperature = "temperature",
+    paramMaxTokens = "max_tokens",
+    paramTopP = "top_p",
+    paramFrequencyPenalty = "frequency_penalty",
+    paramPresencePenalty = "presence_penalty",
+    authorization = "Authorization",
+    bearer = "Bearer",
+    secretKey = "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";
